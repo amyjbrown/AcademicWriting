@@ -26,7 +26,6 @@ Possessive Ling!Predicates are pretty interesting, but I feel they are a bit ort
 
 So to end this small paper - languages have a pretty diverse way of making phil!predicative and phil!identicative sentences, and oftentimes cordon off particular categories of semantics with wildly distinct strategies and constructions, usually with some strongly bundled semantics of their own. I've done no research on the mental linguistics aspects of it, but I discovered there's been a recent paper on the topic that makes a strong _No_. [^8]
 
-Citations [lazily using urls] :
 [^1]: https://wals.info/chapter/120
 
 [^2]: https://halshs.archives-ouvertes.fr/halshs-00255943/document
